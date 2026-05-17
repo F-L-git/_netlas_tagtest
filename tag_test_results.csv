@@ -1,0 +1,273 @@
+Tag,Total Results,Version Support,Status,Message
+litespeed,12257147,Version not supported,Working,12257147 items found
+logitech_media_server,304,Version supported,Working,304 items found
+lotus_domino,50147,Version not supported,Working,50147 items found
+microsoft_httpapi,3864131,Version supported,Working,3864131 items found
+miniserv,134555,Version supported,Working,134555 items found
+mochiweb,1069,Version supported,Working,1069 items found
+mongrel,1000,Version not supported,Working,1000 items found
+monkey_http_server,629,Version supported,Working,629 items found
+nextjs,378620,Version supported,Working,378620 items found
+nginx,115156028,Version supported,Working,115156028 items found
+openbsd_httpd,19748,Version not supported,Working,19748 items found
+opengse,12144688,Version not supported,Working,12144688 items found
+openresty,52417970,Version supported,Working,52417970 items found
+oracle_application_server,7163,Version not supported,Working,7163 items found
+oracle_http_server,6931,Version not supported,Working,6931 items found
+phusion_passenger,275539,Version supported,Working,275539 items found
+resin,13737,Version supported,Working,13737 items found
+sap,7549,Version not supported,Working,7549 items found
+simplehttp,6210,Version supported,Working,6210 items found
+snap,287,Version supported,Working,287 items found
+splunkd,10695,Version not supported,Working,10695 items found
+starlet,690,Version not supported,Working,690 items found
+tengine,1295605,Version not supported,Working,1295605 items found
+tornadoserver,58758,Version supported,Working,58758 items found
+twistedweb,21943,Version supported,Working,21943 items found
+vercel,38605,Version not supported,Working,38605 items found
+warp,5097,Version supported,Working,5097 items found
+winstone_servlet_container,5954,Version supported,Working,5954 items found
+xitami,299,Version supported,Working,299 items found
+yaws,6103,Version supported,Working,6103 items found
+zend,3652,Version supported,Working,3652 items found
+zope,8585,Version not supported,Working,8585 items found
+debut,6622,Version supported,Working,6622 items found
+gunicorn,332865,Version supported,Working,332865 items found
+libwww_perl_daemon,908,Version supported,Working,908 items found
+lighttpd,2616932,Version supported,Working,2616932 items found
+mini_httpd,90675,Version supported,Working,90675 items found
+nghttpx_http2_proxy,49,Version supported,Working,49 items found
+thttpd,37863,Version supported,Working,37863 items found
+ookla_server,23605,Version not supported,Working,23605 items found
+a_frame,1655,Version not supported,Working,1655 items found
+epoch,57,Version not supported,Working,57 items found
+highcharts,46,Version supported,Working,46 items found
+kibana,439,Version not supported,Working,439 items found
+mermaid,289,Version not supported,Working,289 items found
+nvd3,8330,Version not supported,Working,8330 items found
+particlesjs,47638,Version not supported,Working,47638 items found
+xcharts,5194,Version not supported,Working,5194 items found
+jenkins,43769,Version supported,Working,43769 items found
+atlassian_bamboo,482,Version not supported,Working,482 items found
+teamcity,3861,Version supported,Working,3861 items found
+ubiquiti,74785,Version not supported,Working,74785 items found
+ubnt_router,52872,Version not supported,Working,52872 items found
+aruba,15231,Version not supported,Working,15231 items found
+cisco_meraki,30491,Version not supported,Working,30491 items found
+dell,1096,Version not supported,Working,1096 items found
+prtg,15071,Version not supported,Working,15071 items found
+barracuda,8039,Version not supported,Working,8039 items found
+dd_wrt,4795,Version not supported,Working,4795 items found
+fireware_watchguard,20084,Version not supported,Working,20084 items found
+lwip,4594,Version not supported,Working,4594 items found
+juniper,1843,Version not supported,Working,1843 items found
+wisrp,1136,Version not supported,Working,1136 items found
+spiceworks,714,Version not supported,Working,714 items found
+mk_auth,579,Version not supported,Working,579 items found
+web_client_pro,791,Version not supported,Working,791 items found
+syncthru,2685,Version not supported,Working,2685 items found
+smartlan_g,1886,Version not supported,Working,1886 items found
+tenda,8142,Version not supported,Working,8142 items found
+gargoyle,569,Version not supported,Working,569 items found
+netport,255,Version not supported,Working,255 items found
+upc,1256,Version not supported,Working,1256 items found
+rem_objects,2567,Version not supported,Working,2567 items found
+idirect,355,Version not supported,Working,355 items found
+abilis,240,Version not supported,Working,240 items found
+mikrotik,482558,Version supported,Working,482558 items found
+ubiquiti_unifi,57541,Version not supported,Working,57541 items found
+hurricane_electric,11739,Version not supported,Working,11739 items found
+hp_printer,18762,Version not supported,Working,18762 items found
+pfsense,81291,Version not supported,Working,81291 items found
+dell_sonicwall,25670,Version not supported,Working,25670 items found
+fortinet,358662,Version not supported,Working,358662 items found
+sonicwall,400893,Version not supported,Working,400893 items found
+sophos_cyberoam,228430,Version not supported,Working,228430 items found
+cyberoam,8452,Version not supported,Working,8452 items found
+proofpoint,74,Version not supported,Working,74 items found
+netasq,25478,Version not supported,Working,25478 items found
+sangfor,12936,Version not supported,Working,12936 items found
+palo_alto,2819,Version not supported,Working,2819 items found
+fireware_watchguard,20084,Version not supported,Working,20084 items found
+watchguard,8424,Version not supported,Working,8424 items found
+mobileiron,293,Version not supported,Working,293 items found
+kerio_firewall,5771,Version not supported,Working,5771 items found
+vanderbilt,4159,Version not supported,Working,4159 items found
+endian_firewall,886,Version not supported,Working,886 items found
+jamf,496,Version not supported,Working,496 items found
+lancon,63021,Version not supported,Working,63021 items found
+whalebone,43441,Version not supported,Working,43441 items found
+avigilon_network_center,10606,Version not supported,Working,10606 items found
+wazuh,3894,Version not supported,Working,3894 items found
+akamai_bot_manager,58365,Version not supported,Working,58365 items found
+datadome,65841,Version not supported,Working,65841 items found
+imunify360_webshield,8572990,Version supported,Working,8572990 items found
+manageengine_endpoint_central,2354,Version not supported,Working,2354 items found
+perimeterx,4649,Version not supported,Working,4649 items found
+hcaptcha,30,Version not supported,Working,30 items found
+recaptcha,1400230,Version not supported,Working,1400230 items found
+imperva_security,3769086,Version not supported,Working,3769086 items found
+manageengine_servicedesk,6235,Version not supported,Working,6235 items found
+opnsense,13947,Version not supported,Working,13947 items found
+coppermine,1401,Version supported,Working,1401 items found
+gallery,405,Version supported,Working,405 items found
+nextgen_gallery,44407,Version supported,Working,44407 items found
+google_tag_manager,4475575,Version not supported,Working,4475575 items found
+yahoo_tag_manager,102,Version not supported,Working,102 items found
+react,824686,Version not supported,Working,824686 items found
+angularjs,1469448,Version not supported,Working,1469448 items found
+nuxt_js,7817,Version not supported,Working,7817 items found
+amp,272086,Version not supported,Working,272086 items found
+alpinejs,132458,Version not supported,Working,132458 items found
+ant_design,52424,Version not supported,Working,52424 items found
+aurelia,3689,Version not supported,Working,3689 items found
+bem,6307,Version not supported,Working,6307 items found
+element_ui,91605,Version not supported,Working,91605 items found
+gatsby,92930,Version not supported,Working,92930 items found
+handlebars,67258,Version not supported,Working,67258 items found
+meteor,26171,Version not supported,Working,26171 items found
+nuxtjs,360086,Version not supported,Working,360086 items found
+polymer,403,Version not supported,Working,403 items found
+stimulus,470714,Version not supported,Working,470714 items found
+svelte,19721,Version not supported,Working,19721 items found
+vuejs,408898,Version not supported,Working,408898 items found
+invenio,134,Version supported,Working,134 items found
+koha,8524,Version not supported,Working,8524 items found
+open_journal_systems,18041,Version supported,Working,18041 items found
+akaunting,591,Version not supported,Working,591 items found
+salesforce,15889,Version not supported,Working,15889 items found
+micollab,29786,Version not supported,Working,29786 items found
+akaunting,591,Version not supported,Working,591 items found
+appnexus,5539,Version not supported,Working,5539 items found
+google_analytics,10998,Version not supported,Working,10998 items found
+incapsula,107,Version not supported,Working,107 items found
+infusionsoft,2712,Version supported,Working,2712 items found
+microsoft_sharepoint,312485,Version supported,Working,312485 items found
+pardot,0,Tag not supported,Not Working,0 items found
+salesforce_commerce_cloud,546,Version not supported,Working,546 items found
+squarespace,436022,Version not supported,Working,436022 items found
+stripe,14143,Version not supported,Working,14143 items found
+webflow,339558,Version not supported,Working,339558 items found
+wix,102780,Version not supported,Working,102780 items found
+zendesk,3448,Version not supported,Working,3448 items found
+roundcube,106495,Version not supported,Working,106495 items found
+mailcow,168918,Version not supported,Working,168918 items found
+smarter_mail,29575,Version not supported,Working,29575 items found
+mailwizz,9432,Version not supported,Working,9432 items found
+outlook,335529,Version not supported,Working,335529 items found
+kerio_webmail,2490,Version not supported,Working,2490 items found
+horde,74665,Version not supported,Working,74665 items found
+lws_webmail,357618,Version not supported,Working,357618 items found
+dreamhost_webmail,5,Version not supported,Working,5 items found
+locamail_webmail,2634,Version not supported,Working,2634 items found
+microsoft_exchange,2137941,Version supported,Working,2137941 items found
+zimbra,149712,Version not supported,Working,149712 items found
+mailerq,2709,Version not supported,Working,2709 items found
+crossbox,1227,Version not supported,Working,1227 items found
+modoboa,918,Version not supported,Working,918 items found
+outlook_web_app,3625,Version supported,Working,3625 items found
+rainloop,19601,Version not supported,Working,19601 items found
+squirrelmail,5392,Version supported,Working,5392 items found
+sympa,73,Version not supported,Working,73 items found
+zentyal,2273,Version not supported,Working,2273 items found
+bootstrap_table,17389,Version not supported,Working,17389 items found
+headjs,5927,Version not supported,Working,5927 items found
+lightbox,796406,Version not supported,Working,796406 items found
+slick,653738,Version not supported,Working,653738 items found
+sweetalert,15261,Version not supported,Working,15261 items found
+sweetalert2,101369,Version not supported,Working,101369 items found
+prettyphoto,275191,Version not supported,Working,275191 items found
+scrollreveal,2797,Version not supported,Working,2797 items found
+jquery_pjax,74396,Version not supported,Working,74396 items found
+solarwinds_ftp,5709,Version not supported,Working,5709 items found
+seafile,3656,Version not supported,Working,3656 items found
+rumpus,2926,Version not supported,Working,2926 items found
+openmediavault,3837,Version not supported,Working,3837 items found
+netgear_ready_nas,2428,Version not supported,Working,2428 items found
+seagate_nas,1495,Version not supported,Working,1495 items found
+hfs,1540,Version not supported,Working,1540 items found
+liquidfiles,99,Version not supported,Working,99 items found
+aicloud,78690,Version not supported,Working,78690 items found
+qnap_nas,103478,Version not supported,Working,103478 items found
+synology_diskstation,206829,Version not supported,Working,206829 items found
+minio,20004,Version not supported,Working,20004 items found
+google,65448,Version not supported,Working,65448 items found
+baidu,4266,Version not supported,Working,4266 items found
+awesomplete,20941,Version not supported,Working,20941 items found
+kibana,439,Version not supported,Working,439 items found
+apache_solr,226528,Version not supported,Working,226528 items found
+amazon_alb,592771,Version not supported,Working,592771 items found
+amazon_elb,50411,Version not supported,Working,50411 items found
+btcpay,1037,Version not supported,Working,1037 items found
+amazon_pay,18243,Version not supported,Working,18243 items found
+american_express,675278,Version not supported,Working,675278 items found
+apple_pay,1233910,Version not supported,Working,1233910 items found
+google_pay,585726,Version not supported,Working,585726 items found
+paypal,108116,Version not supported,Working,108116 items found
+recurly,13353,Version not supported,Working,13353 items found
+shop_pay,606040,Version not supported,Working,606040 items found
+stripe,14143,Version not supported,Working,14143 items found
+venmo,330580,Version not supported,Working,330580 items found
+visa,696393,Version not supported,Working,696393 items found
+zip,1983,Version not supported,Working,1983 items found
+eway_payments,1983,Version not supported,Working,1983 items found
+adriver,553,Version not supported,Working,553 items found
+adverticum,16849,Version not supported,Working,16849 items found
+appnexus,5539,Version not supported,Working,5539 items found
+carbon_ads,87,Version not supported,Working,87 items found
+sizmek,705,Version not supported,Working,705 items found
+smart_ad_server,598,Version not supported,Working,598 items found
+zanox,2317,Version not supported,Working,2317 items found
+synology,6919,Version not supported,Working,6919 items found
+checkpoint,13220,Version not supported,Working,13220 items found
+freebox,15517,Version not supported,Working,15517 items found
+ubuntu,19754742,Version not supported,Working,19754742 items found
+debian,8758711,Version not supported,Working,8758711 items found
+microsoft,613959,Version not supported,Working,613959 items found
+centos,5419582,Version not supported,Working,5419582 items found
+darwin,624,Version not supported,Working,624 items found
+fedora,111284,Version not supported,Working,111284 items found
+freebsd,471873,Version supported,Working,471873 items found
+gentoo,83947,Version not supported,Working,83947 items found
+raspbian,55865,Version not supported,Working,55865 items found
+red_hat,374577,Version not supported,Working,374577 items found
+suse,40728,Version not supported,Working,40728 items found
+scientific_linux,6664,Version not supported,Working,6664 items found
+sunos,19,Version not supported,Working,19 items found
+unix,3502558,Version not supported,Working,3502558 items found
+windows_ce,15176,Version not supported,Working,15176 items found
+windows_server,652694,Version not supported,Working,652694 items found
+nethserver,10379,Version not supported,Working,10379 items found
+hikvision,1116414,Version not supported,Working,1116414 items found
+dahua,148279,Version not supported,Working,148279 items found
+tvt_camera,145603,Version not supported,Working,145603 items found
+unv_ip_camera,69712,Version not supported,Working,69712 items found
+axis,25021,Version not supported,Working,25021 items found
+dahua_storm,9941,Version not supported,Working,9941 items found
+luma_surveillance,16154,Version not supported,Working,16154 items found
+dlink_webcam,9770,Version not supported,Working,9770 items found
+alibi_nvr,8545,Version not supported,Working,8545 items found
+truvision,12881,Version not supported,Working,12881 items found
+herospeed,9300,Version not supported,Working,9300 items found
+reolink,20843,Version not supported,Working,20843 items found
+avtech,11162,Version not supported,Working,11162 items found
+mobitix,6250,Version not supported,Working,6250 items found
+jaws,3644,Version not supported,Working,3644 items found
+ossia,7075,Version not supported,Working,7075 items found
+blue_iris,2509,Version not supported,Working,2509 items found
+korean,3586,Version not supported,Working,3586 items found
+instar,7871,Version not supported,Working,7871 items found
+vivotek,4833,Version not supported,Working,4833 items found
+exacq,1217,Version not supported,Working,1217 items found
+bosh,2165,Version not supported,Working,2165 items found
+tecvoz,932,Version not supported,Working,932 items found
+samsung_dvr,29452,Version not supported,Working,29452 items found
+athd_dvrs,0,Tag not supported,Not Working,0 items found
+panasonic_bb_st162,3562,Version not supported,Working,3562 items found
+panasonic_bb_sw172,1766,Version not supported,Working,1766 items found
+panasonic_bb_st165,1987,Version not supported,Working,1987 items found
+cpplus_dvr,2515,Version not supported,Working,2515 items found
+panasonic_bb_sc382,1591,Version not supported,Working,1591 items found
+hanwha_dvr,1395,Version not supported,Working,1395 items found
+secom_nvr,1910,Version not supported,Working,1910 items found
+panasonic_bb_sw175,2833,Version not supported,Working,2833 items found

@@ -1,0 +1,22 @@
+Необходимо протестировать все теги указанных разделов netlas, проверить, выдают ли они ответ на запрос (?)
+Проверить работу тегов:
+1. Найти теги, которые ничего не выводят (не работают)
+2. Проверить корректность вывода тегов (то есть тег выдает то, что подразумевает, а не другое)
+Результат представить в виде таблицы, где указать работающие, неработающие и ошибочно работающие теги.
+
+
+# Список категорий тегов для проверки
+tag_categories = [
+    'Maps', 'Marketing automation', 'Media servers', 'Message boards',
+    'Miscellaneous', 'Mobile frameworks', 'Network', 'Network devices',
+    'Network storage', 'Operating systems', 'PaaS', 'Page builders',
+    'Payment processors', 'Photo galleries', 'Printers', 'Programming languages',
+    'Remote access', 'Reverse proxies', 'Rich text editors', 'Router', 'SEO',
+    'SSH server', 'SaaS', 'Search engines', 'Security', 'Social logins',
+    'Static site generator', 'Tag managers', 'Telecom', 'UI frameworks',
+    'Video players', 'VoIP', 'Web cameras', 'Web frameworks',
+    'Web server extensions', 'Web servers', 'Webmail', 'Widgets', 'Wikis'
+]
+
+Отсортированный список всех тегов по всем разделам:
+curl -s https://app.netlas.io/api/technologies/ | jq -r “.[].tags[].name” | sort -u
