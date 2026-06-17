@@ -3,7 +3,7 @@ import time
 import csv
 
 # API ключ
-api_key = 'mA3BPrqcOdh05mFDB9GVnkmVIXPW38Ua'
+api_key = ''
 
 # объект Netlas с API ключом
 netlas_connection = netlas.Netlas(api_key=api_key)

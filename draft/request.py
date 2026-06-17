@@ -1,7 +1,7 @@
 from netlas import Netlas
 
 # Установите ваш API ключ
-api_key = 'mA3BPrqcOdh05mFDB9GVnkmVIXPW38Ua'
+api_key = 'your_api_key_here'
 
 # Создайте объект Netlas с вашим API ключом
 netlas = Netlas(api_key)

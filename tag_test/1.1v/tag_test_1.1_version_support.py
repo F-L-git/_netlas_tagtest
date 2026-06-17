@@ -4,7 +4,7 @@ import csv
 from requests.exceptions import RequestException
 
 # API ключ
-api_key = '1CNI8pZAx3vYWfJqaD74fEc1cSi5KsTW'
+api_key = ''
 
 # объект Netlas с API ключом
 netlas_connection = netlas.Netlas(api_key=api_key)
