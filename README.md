@@ -12,15 +12,21 @@
 - The scripts implement the processing of the 'Request limit' error with a pause of 60 seconds before trying again.
 - A 1-second delay has been added between checks of different tags.
 
+> [!TIP]
+> Script structure
+> - tag_test_1.1.py — basic test (tag + version).
+> - tag_test_1.1_focus.py — advanced test with detailed logging.
+> - tag_test_1.1_version_support.py — version support test only.
+
 ## Query format
 - Search by tag: `tag.name:nginx`
 - Search by tag version: `tag.nginx.version:1.18.0`
 - Version support check: `tag.nginx.version:<10000` (finds all records with any version)
 
 ## Additional context
-Netlas uses passive scanning — it does not send malicious requests, but only analyzes the public responses of the services. This makes it a safe tool for exploration. Tags are a key element of this system. They allow not only to identify technologies, but also to link them to known vulnerabilities (CVEs).
+Netlas uses **passive scanning** — it does not send malicious requests, but only analyzes the public responses of the services. This makes it a safe tool for exploration. Tags are a key element of this system. They allow not only to identify technologies, but also to link them to known vulnerabilities (CVEs).
 
 Understanding which tags work and which versions support is critical for:
-- Search for vulnerable systems (for example, `tag.apache.version:2.4.49`)
-- Analysis of the technological stack of companies
-- Automation of OSINT fees via API
+- **Search for vulnerable systems** (for example, `tag.apache.version:2.4.49`)
+- **Analysis of the technological stack of companies**
+- **Automation of OSINT fees via API**
