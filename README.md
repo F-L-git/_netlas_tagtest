@@ -6,13 +6,13 @@ Testing allows you to create an up-to-date catalog of working tags that can be u
 ## Key technical details
 ### API and authentication
 - All requests require an API key, which is obtained on the Netlas [profile page](https://app.netlas.io/profile/)
-- The key is passed when creating the object `netlas.Netlas(api_key=api_key)'
+- The key is passed when creating the object `netlas.Netlas(api_key=api_key)`
 - The SDK handles basic errors automatically, but the scripts have added their own retry logic
 
 ### Rate Limits
-- The `Netlas API' has limits on the number of requests (depends on the subscription).
-- The scripts implement the processing of the 'Request limit' error with a pause of 60 seconds before trying again.
-- A 1-second delay has been added between checks of different tags.
+- The `Netlas API` has limits on the number of requests (depends on the subscription).
+- The scripts implement the processing of the `Request limit` error with a **pause of 60 seconds** before trying again.
+- A **1-second delay** has been added between checks of different tags.
 
 > [!TIP]
 > Script structure
